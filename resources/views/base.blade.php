@@ -148,7 +148,7 @@
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
                                 <div class="about-logo">
-                                    <a href="index.html"><img src="{{ asset('/assets/img/coirplanet/cp-logo.webp') }}" width="25%" alt="Coir Planet Logo"></a>
+                                    <a href="{{ route('index') }}"><img src="{{ asset('/assets/img/coirplanet/cp-logo.webp') }}" width="25%" alt="Coir Planet Logo"></a>
                                 </div>
                                 <p class="about-text">UK-based Coir Planet supplies 100% natural coir geotextiles, organic coco peat, and eco-friendly coir products from Kerala, India.</p>
 
