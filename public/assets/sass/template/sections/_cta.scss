@@ -1,0 +1,281 @@
+.cta-area {
+    position: relative;
+    padding: 100px 0;
+    z-index: 10;
+    overflow: hidden;
+
+    @include sm {
+        padding: 80px 30px;
+    }
+}
+
+.cta-content {
+    @include md {
+        text-align: center;
+    }
+}
+
+.cta-title {
+    margin: 0;
+    color: #AB6A49;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    display: block;
+    margin-bottom: 5px;
+
+    @include md {
+        text-align: center;
+    }
+}
+
+
+.btn-group {
+    .cta-btn {
+        background-color: $title-color;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 26px;
+        color: $white-color;
+        text-transform: uppercase;
+        padding: 4px 16px;
+        margin-bottom: 0;
+        border-radius: 4px;
+    }
+
+    &.style5 {
+        @include md {
+            justify-content: center;
+        }
+    }
+}
+
+@include md {
+    .sec-title.cta-title {
+
+
+        img {
+            max-width: 64px;
+        }
+    }
+
+    .cta-text {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+
+@include sm {
+    .sec-title.cta-title {
+
+
+        img {
+            display: none;
+        }
+    }
+}
+
+
+.cta-sec {
+    position: relative;
+    // max-width: 1700px;  
+    margin: 0 100px;
+    padding: 46px 0 46px 0;
+    // margin: auto;
+    overflow: hidden;
+    z-index: 9;
+
+    @media(min-width: 1922px) {
+        display: block;
+        margin: auto;
+    }
+
+    @media(max-width: 1799px) {
+        margin-right: 0;
+    }
+
+    @media(max-width: 1599px) {
+        max-width: 100%;
+    }
+
+    @media(max-width: 1499px) {
+        padding: 50px 0 50px 0;
+    }
+
+    @include md {
+        background-size: cover;
+    }
+
+    .btn-group {
+        margin-right: -200px;
+
+        @media(max-width: 1699px) {
+            margin-right: -60px;
+        }
+
+        @media(max-width: 1399px) {
+            margin-right: 0px;
+        }
+    }
+
+}
+
+.cta-thumb {
+    clip-path: polygon(7% 0, 100% 0, 100% 100%, 0% 100%);
+    z-index: 2;
+    height: 100%;
+    overflow: hidden;
+
+    @include xs {
+        position: relative;
+        clip-path: none;
+    }
+
+    &:before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-color: rgba(1, 15, 52, 0.8);
+        z-index: 1;
+    }
+
+    img {
+        height: 100%;
+        object-fit: cover;
+
+        @include xs {
+            width: 100%;
+        }
+    }
+
+    .play-btn {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+        @include lg {
+            left: 40%;
+        }
+
+        @include md {
+            left: 10%;
+        }
+
+        @include xs {
+            left: 50%;
+        }
+
+
+        &:before,
+        &:after {
+            background-color: rgba(255, 255, 255, 0.2);
+
+        }
+
+        i {
+            --icon-size: 40px;
+            line-height: var(--icon-size, 40px);
+            font-size: 14px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border: 1px solid $white-color;
+
+        }
+    }
+}
+
+/* cta-sec3 -------------------*/
+.cta-sec3 {
+    position: relative;
+    background-color: $theme-color;
+    border-radius: 30px;
+    padding: 110px 60px;
+    z-index: 5;
+    overflow: hidden;
+
+    @include md {
+        text-align: center;
+        padding: 80px 30px;
+    }
+
+    .cta-img {
+        position: absolute;
+        top: 0;
+        right: 0;
+        clip-path: polygon(33% 0%, 100% 1%, 100% 100%, 0 100%);
+
+        @include md {
+            position: relative;
+            clip-path: none;
+            margin-top: 40px;
+        }
+
+        &:before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: #02142A;
+            opacity: 0.5;
+            z-index: 1;
+            clip-path: polygon(33% 0%, 100% 1%, 100% 100%, 0 100%);
+
+            @include md {
+                clip-path: none;
+            }
+
+        }
+
+
+    }
+
+    .cta-text {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 46px;
+        color: $white-color;
+        margin-bottom: 10px;
+        display: block;
+
+        @include xl {
+            font-size: 30px;
+            line-height: 36px;
+        }
+    }
+
+    .cta-link {
+        color: $white-color;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 34px;
+    }
+ 
+    .icon-btn {
+        position: absolute;
+        left: 55%;
+        top: 45%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        background-color: $white-color;
+        border-color: $white-color;
+        --btn-size: 80px;
+        font-size: 28px;
+
+        @include lg {
+            top: 50%;
+            left: 70%;
+            transform: translate(-50%, -50%);
+        }
+
+        @include md {
+            top: 50%;
+            left: 50%;
+            margin-top: 70px;
+        }
+
+        i {
+            font-size: 28px;
+            transform: rotate(-45deg);
+            color: $theme-color;
+        }
+    }
+}
