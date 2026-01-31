@@ -162,7 +162,7 @@ About Area
         </div>
     </div>
 </div>
-<section class="bg-white space-top space-extra-bottom overflow-hidden">
+<section class="bg-white space-top overflow-hidden">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 justify-content-center">
@@ -174,7 +174,7 @@ About Area
             <div class="col-md-4">
                 <div class="about-card">
                     <div class="about-card_content">
-                        <h3 class="about-card_title">Dr. Sevichan P J</h3>
+                        <h5 class="about-card_title">Dr. Sevichan P J</h5>
                         <p class="about-card_desig text-theme">Board Member</p>
                         <div class="th-social">
                             <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i> </a>
@@ -193,7 +193,7 @@ About Area
             <div class="col-md-4">
                 <div class="about-card">
                     <div class="about-card_content">
-                        <h3 class="about-card_title">Tomy Jacob </h3>
+                        <h5 class="about-card_title">Tomy Jacob </h5>
                         <p class="about-card_desig text-theme">Board Member</p>
                         <div class="th-social">
                             <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i> </a>
@@ -210,7 +210,7 @@ About Area
             <div class="col-md-4">
                 <div class="about-card">
                     <div class="about-card_content">
-                        <h3 class="about-card_title">Madhur Bedi</h3>
+                        <h5 class="about-card_title">Madhur Bedi</h5>
                         <p class="about-card_desig text-theme">Board Member</p>
                         <div class="th-social">
                             <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i> </a>
@@ -228,4 +228,270 @@ About Area
         </div>
     </div>
 </section>
+<section class="service-sec overflow-hidden space" id="service-sec" data-bg-src="{{ asset('/assets/img/bg/service_bg_2.jpg') }}">
+    <div class="container">
+        <div class="title-area text-center">
+            <span class="sub-title">Our Thrust Areas</span>
+            <h2 class="sec-title">Key Areas of Commitment!</h2>
+        </div>
+        <div class="row gy-4 justify-content-between align-items-center">
+            <div class="service-card_wrap style2">
+                <div class="service-card style1 wow fadeInUp" data-bg-src="{{ asset('/assets/img/shape/service_shape_2.png') }}">
+                    <div class="service-card_img">
+                        <img src="{{ asset('/assets/img/coirplanet/bg3-1.svg') }}" alt="image">
+                    </div>
+                    <div class="service-card_content">
+                        <h3 class="box-title"><a href="{{ route('about') }}">Coir Geotextile for Erosion Control</a></h3>
+                        <p class="service-card_text">Coir geotextiles are natural, biodegradable mats made from coconut fibre that prevent soil erosion, stabilize slopes, and support vegetation growth.</p>
+                        <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                    </div>
+                </div>
+                <div class="service-card_wrap">
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Ground/Soil Stabilisation</a></h3>
+                            <p class="service-card_text">Natural coir geotextiles strengthen soil structure, reduce surface movement, and improve ground stability in erosion-prone areas.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Slope Protection</a></h3>
+                            <p class="service-card_text">Coir geotextiles protect slopes from erosion by reinforcing soil surfaces and supporting natural vegetation growth.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Water Management</a></h3>
+                            <p class="service-card_text">Coir products improve water management by enhancing moisture retention, reducing runoff, and supporting natural drainage.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Landscaping</a></h3>
+                            <p class="service-card_text">Coir products enhance landscaping by improving soil health, controlling weeds, and supporting healthy plant growth.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Coastal Defence</a></h3>
+                            <p class="service-card_text">Coir geotextiles protect coastlines by reducing erosion, stabilizing shorelines, and supporting natural vegetation growth.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                    <div class="service-card wow fadeInRight" data-bg-src="{{ asset('/assets/img/shape/service_shape_3.png') }}">
+                        <div class="service-card_content">
+                            <h3 class="box-title"><a href="{{ route('about') }}">Construction and Infrastructure Development</a></h3>
+                            <p class="service-card_text">Coir geotextiles support construction and infrastructure projects by stabilizing soil, preventing erosion, and enhancing long-term ground performance.</p>
+                            <a href="{{ route('about') }}" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="space overflow-hidden position-relative space" data-bg-src="{{ asset('/assets/img/bg/process_bg_1.jpg') }}">
+    <div class="container">
+        <div class="title-area text-center">
+            <span class="sub-title">CSR</span>
+            <h2 class="sec-title">Corporate Social Responsibility</h2>
+        </div>
+        <div class="step-wrap">
+            <div class="process-line">
+                <img src="{{ asset('/assets/img/shape/process-line.png') }}" alt="">
+            </div>
+            <div class="process-card_wrapp">
+                <div class="process-card">
+                    <div class="process-card_icon">
+                        <span class="number">01</span>
+                    </div>
+                    <div class="process-card_content">
+                        <h2 class="box-title">Empowering socially and economically underprivileged rural women of Kerala,India</h2>
+                    </div>
+                    <div class="process-card_img">
+                        <img src="{{ asset('/assets/img/icon/about_1_1.svg') }}" alt="Process">
+                    </div>
+                </div>
+                <div class="process-card">
+                    <div class="process-card_icon">
+                        <span class="number">02</span>
+                    </div>
+                    <div class="process-card_content">
+                        <h2 class="box-title">Concern and commitment to the environment.</h2>
+                    </div>
+                    <div class="process-card_img">
+                        <img src="{{ asset('/assets/img/icon/about_1_1.svg') }}" alt="Process">
+                    </div>
+                </div>
+                <div class="process-card">
+                    <div class="process-card_icon">
+                        <span class="number">03</span>
+                    </div>
+                    <div class="process-card_content">
+                        <h2 class="box-title">Empowering sustainable agriculture and development </h2>
+                    </div>
+                    <div class="process-card_img">
+                        <img src="{{ asset('/assets/img/icon/about_1_1.svg') }}" alt="Process">
+                    </div>
+                </div>
+                <div class="process-card">
+                    <div class="process-card_icon">
+                        <span class="number">04</span>
+                    </div>
+                    <div class="process-card_content">
+                        <h2 class="box-title">Climate change mitigation.</h2>
+                    </div>
+                    <div class="process-card_img">
+                        <img src="{{ asset('/assets/img/icon/about_1_1.svg') }}" alt="Process">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="position-relative overflow-hidden space-bottom space-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 justify-content-center">
+                <div class="title-area text-center"><span class="sub-title style4 text-uppercase">Testimonials</span>
+                    <h2 class="sec-title">What Our Clients Say</h2>
+                    <p>Hear what our clients say about the quality, reliability, and sustainability of our coir products and services.</p>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="testi-slide-area2">
+                    <div class="testi-card2-slide th-carousel" id="testiSlide7" data-arrows="true" data-xl-arrows="true" data-ml-arrows="true" data-fade="true" data-slide-show="1">
+                        <div>
+                            <div class="testi-card2">
+                                <div class="testi-card2_img">
+                                    <img src="{{ asset('/assets/img/testimonial/testi_3_1.png') }}" alt="Avater">
+                                </div>
+                                <div class="testi-card2_content">
+                                    <p class="testi-card2_text">“It’s a pleasure working with Bunker. They understood our new brand positioning guidelines translated them beautifully and consistently into our on-going marketing comms. The team is responsive, quick and always willing help winning partnership.”
+                                    </p>
+                                    <div class="testi-card2_wrapp">
+                                        <div>
+                                            <h3 class="testi-card2_name">Marvin McKinney</h3>
+                                            <span class="testi-card2_desig">Senior Director of Marketing</span>
+                                        </div>
+                                        <div class="test-logo"><img src="{{ asset('/assets/img/shape/logo.png') }}" alt=""></div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                        <div>
+                            <div class="testi-card2">
+                                <div class="testi-card2_img">
+                                    <img src="{{ asset('/assets/img/testimonial/testi_3_2.png') }}" alt="Avater">
+                                </div>
+                                <div class="testi-card2_content">
+                                    <p class="testi-card2_text">“available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything ”
+                                    </p>
+                                    <div class="testi-card2_wrapp">
+                                        <div>
+                                            <h3 class="testi-card2_name">Daisy Welch</h3>
+                                            <span class="testi-card2_desig">Senior Director of Marketing</span>
+                                        </div>
+                                        <div class="test-logo"><img src="{{ asset('/assets/img/shape/logo.png') }}" alt=""></div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-quote"><img src="{{ asset('/assets/img/shape/quote2.svg') }}" alt=""></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="contact-area bg-top-center overflow-hidden space" id="contact-sec" data-bg-src="{{ asset('/assets/img/bg/process_bg_1.jpg') }}">
+    <div class="container">
+        <div class="row gy-4">
+            <div class="col-xl-7">
+                <div class="title-area">
+                    <span class="sub-title"><img src="{{ asset('/assets/img/theme-img/title_left_white.svg') }}" alt="shape">Contact Us</span>
+                    <h2 class="sec-title">Connect with Coir Planet</h2>
+                </div>
+            </div>
+            <div class="col-xl-5">
+                <p class="mb-50">Get in touch with our team for product enquiries, bulk orders, or project-specific coir solutions.</p>
+            </div>
+        </div>
+        <div class="contact-form-area">
+            <div class="row gy-4">
+                <div class="col-lg-7">
+                    <div>
+                        <form action="mail.php" method="POST" class="contact-form2">
+                            <h2 class="sec-title">Get in Touch</h2>
+                            <div class="row">
+                                <div class="form-group col-sm-12">
+                                    <input type="text" class="form-control style2" name="name" id="name" placeholder="Full Name">
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <input type="email" class="form-control style2" name="email" id="email" placeholder="Email Address">
+                                </div>
+
+                                <div class="form-group col-sm-6">
+                                    <input type="tel" class="form-control" name="number" id="number" placeholder="Phone Number">
+                                </div>
+                                <div class="form-group col-12">
+                                    <textarea name="message" id="message" cols="30" rows="3" class="form-control style2" placeholder="Messages"></textarea>
+                                </div>
+                                <div class="form-btn col-12">
+                                    <button class="th-btn fw-btn">Submit Now</button>
+                                </div>
+                            </div>
+                            <p class="form-messages mb-0 mt-3"></p>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="contact-map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sThemeholy!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+
+            </div>
+            <div class="contact-info-wrap style2">
+
+                <div class="contact-info">
+                    <div class="contact-info_icon">
+                        <i class="fa-light fa-location-dot"></i>
+                    </div>
+                    <div class="media-body">
+                        <span class="contact-info_text">Office location</span>
+                        <h3 class="box-title">Coir Planet, Bldg. No.592, Kanjikuzhi GP Ward IX, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</h3>
+                    </div>
+                </div>
+
+                <div class="contact-info">
+                    <div class="contact-info_icon">
+                        <i class="fa-light fa-envelope"></i>
+                    </div>
+                    <div class="media-body">
+                        <span class="contact-info_text">send email</span>
+                        <h3 class="box-title"> <a href="mailto:mail@coirplanet.com"> mail@coirplanet.com</a></h3>
+                    </div>
+                </div>
+                <div class="contact-info">
+                    <div class="contact-info_icon">
+                        <i class="fa-light fa-phone"></i>
+                    </div>
+                    <div class="media-body">
+                        <span class="contact-info_text">call emergency </span>
+                        <h3 class="box-title"><a href="tel:+91 7861726814">+917861726814</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection

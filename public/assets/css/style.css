@@ -23991,7 +23991,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .process-card_img:after {
-  inset: 1px;
+  /*inset: 1px;*/
   background: var(--white-color);
 }
 
