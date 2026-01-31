@@ -487,7 +487,7 @@ About Area
                     </div>
                     <div class="media-body">
                         <span class="contact-info_text">call emergency </span>
-                        <h3 class="box-title"><a href="tel:+91 7861726814">+917861726814</a></h3>
+                        <h3 class="box-title"><a href="tel:+917861726814">+91 7861726814</a></h3>
                     </div>
                 </div>
             </div>
