@@ -510,7 +510,7 @@
                         <div class="col-lg-7 col-md-12 about_company_inner">
                             <div class="abt_content">
                                 <div class="logo">
-                                    <img src="{{ asset('/assets/img/coirplanet/cp-logo.webp') }}" alt="Coir Plane Logo" class="company_logo_modal">
+                                    <img src="{{ asset('/assets/images/cp-logo.webp') }}" alt="Coir Plane Logo" class="company_logo_modal">
                                 </div>
                                 <div class="text">
                                     <p>We are a UK based company having our manufacturing unit in Kerala, the land of coconut, a state derived its name from coconut, India. Our products are purely natural coir geotextile, organic and natural coco peat, coco pods and mulch mat. </p>
