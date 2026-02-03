@@ -8,7 +8,7 @@
         <div class="slide-item-content">
             <div class="slide-item content_center">
                 <div class="image-layer"
-                    style="background-image:url(assets/images/sliders/9.png)">
+                    style='background-image:url("{{ asset("/assets/images/sliders/9.png") }}")'>
                 </div>
                 <div class="medium-container">
                     <div class="row align-items-center">
@@ -42,7 +42,7 @@
         <div class="slide-item-content">
             <div class="slide-item content_left">
                 <div class="image-layer"
-                    style="background-image:url(assets/images/sliders/6.png)">
+                    style='background-image:url("{{ asset("/assets/images/sliders/6.png") }}")'>
                 </div>
                 <div class="medium-container">
                     <div class="row align-items-center">
@@ -75,7 +75,7 @@
         <div class="slide-item-content">
             <div class="slide-item content_center">
                 <div class="image-layer"
-                    style="background-image:url(assets/images/sliders/5.png)">
+                    style='background-image:url("{{ asset("/assets/images/sliders/5.png") }}")'>
                 </div>
                 <div class="medium-container">
                     <div class="row align-items-center">
