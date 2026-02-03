@@ -217,7 +217,7 @@
                     </path>
                 </svg>
             </div>
-            <div class="footer_widgets_wrap bg_op_1" style="background: url(assets/images/footer-bg-two.jpg);">
+            <div class="footer_widgets_wrap bg_op_1" style='background: url("{{ asset("/assets/images/footer-bg-two.jpg") }}");'>
                 <!--===============spacing==============-->
                 <div class="pd_top_150"></div>
                 <!--===============spacing==============-->
@@ -250,31 +250,31 @@
                                 <ul class="items_gal">
                                     <li>
                                         <span class="image">
-                                            <img src="assets/images/blog/blog-image-8.jpg" class="gal" alt="Gallery">
+                                            <img src="{{ asset('/assets/images/blog/blog-image-8.jpg') }}" class="gal" alt="Gallery">
                                             <a href="#"><i class="icon-chevron-right"></i></a>
                                         </span>
                                     </li>
                                     <li>
                                         <span class="image">
-                                            <img src=" assets/images/blog/blog-image-7.jpg" class="gal" alt="Gallery">
+                                            <img src="{{ asset('/assets/images/blog/blog-image-7.jpg') }}" class="gal" alt="Gallery">
                                             <a href="#"><i class="icon-chevron-right"></i></a>
                                         </span>
                                     </li>
                                     <li>
                                         <span class="image">
-                                            <img src=" assets/images/blog/blog-image-6.jpg" class="gal" alt="Gallery">
+                                            <img src="{{ asset('/assets/images/blog/blog-image-6.jpg') }}" class="gal" alt="Gallery">
                                             <a href="#"><i class="icon-chevron-right"></i></a>
                                         </span>
                                     </li>
                                     <li>
                                         <span class="image">
-                                            <img src=" assets/images/blog/blog-image-5.jpg" class="gal" alt="Gallery">
+                                            <img src="{{ asset('/assets/images/blog/blog-image-5.jpg') }}" class="gal" alt="Gallery">
                                             <a href="#"><i class="icon-chevron-right"></i></a>
                                         </span>
                                     </li>
                                     <li>
                                         <span class="image">
-                                            <img src=" assets/images/blog/blog-image-2.jpg" class="gal" alt="Gallery">
+                                            <img src="{{ asset('/assets/images/blog/blog-image-2.jpg') }}" class="gal" alt="Gallery">
                                             <a href="#"><i class="icon-chevron-right"></i></a>
                                         </span>
                                     </li>
@@ -437,10 +437,10 @@
             <div class="menu-backdrop"></div>
             <nav class="menu-box">
                 <div class="close-btn"><i class="icon-close"></i></div>
-                <form role="search" method="get" action="#">
+                <!--<form role="search" method="get" action="#">
                     <input type="search" class="search" placeholder="Search..." value="" name="s" title="Search" />
                     <button type="submit" class="sch_btn"> <i class="icon-search"></i></button>
-                </form>
+                </form>-->
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
