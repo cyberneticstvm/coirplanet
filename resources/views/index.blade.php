@@ -365,7 +365,7 @@
     <!--===============spacing==============-->
 </section>
 <section class="contact-section bg_op_1 box_shadow_2"
-    style="background: url(assets/images/consult-bg.jpg);">
+    style='background: url("{{ asset("/assets/images/consult-bg.jpg") }}");'>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5 col-md-12">
