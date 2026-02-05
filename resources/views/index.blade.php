@@ -412,7 +412,7 @@
                                 <span class="icon-telephone"></span>
                                 <div class="content">
                                     <h6 class="titles"> Phone</h6>
-                                    <a href="tel:+917861726814">+91 7861726814</a>
+                                    <a href="tel:+447861726814">+44 7861726814</a>
                                 </div>
                             </div>
                         </div>
