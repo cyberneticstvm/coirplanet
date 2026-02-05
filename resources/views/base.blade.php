@@ -300,35 +300,35 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="color_white">
+                                        <a href="{{ route('uandp') }}" class="color_white">
                                             <span class=" icon-right-arrow icon"></span>
                                             Usage & Process
 
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="color_white">
+                                        <a href="{{ route('products') }}" class="color_white">
                                             <span class=" icon-right-arrow icon"></span>
                                             Products
 
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="color_white">
+                                        <a href="{{ route('blogs') }}" class="color_white">
                                             <span class=" icon-right-arrow icon"></span>
                                             Blogs
 
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="color_white">
+                                        <a href="{{ route('csr') }}" class="color_white">
                                             <span class=" icon-right-arrow icon"></span>
                                             CSR
 
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="color_white">
+                                        <a href="{{ route('contact') }}" class="color_white">
                                             <span class=" icon-right-arrow icon"></span>
                                             Contact Us
                                         </a>

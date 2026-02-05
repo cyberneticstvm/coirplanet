@@ -18,22 +18,22 @@
                                         </a>
                                     </li>
                                     <li class="menu-item nav-item">
-                                        <a href="{{ route('index') }}" class="nav-link">
+                                        <a href="{{ route('uandp') }}" class="nav-link">
                                             <span>Usage & Process</span>
                                         </a>
                                     </li>
                                     <li class="menu-item nav-item">
-                                        <a href="{{ route('index') }}" class="nav-link">
+                                        <a href="{{ route('products') }}" class="nav-link">
                                             <span>Products</span>
                                         </a>
                                     </li>
                                     <li class="menu-item nav-item">
-                                        <a href="{{ route('index') }}" class="nav-link">
+                                        <a href="{{ route('blogs') }}" class="nav-link">
                                             <span>Blogs</span>
                                         </a>
                                     </li>
                                     <li class="menu-item nav-item">
-                                        <a href="{{ route('index') }}" class="nav-link">
+                                        <a href="{{ route('csr') }}" class="nav-link">
                                             <span>CSR</span>
                                         </a>
                                     </li>
