@@ -357,7 +357,7 @@
                                             <h6>UK Address</h6>
                                             <p>35 Park Street, Walsall, WS1 1LY, West Midlands, UK</p>
                                             <h6 class="mt-3">India Address</h6>
-                                            <p>Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
+                                            <p>Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
                                         </div>
                                         <div class="bottom">
                                             <h6> Contact</h6>
