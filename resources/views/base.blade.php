@@ -74,7 +74,7 @@
                                         <ul class="contact_info_two">
                                             <li class="single">
                                                 <span class="icon-placeholder"></span>
-                                                Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India
+                                                Coir Planet, 35 Park Street, Walsall, WS1 1LY, West Midlands, UK
                                             </li>
                                         </ul>
                                     </div>
@@ -134,7 +134,12 @@
                                             <ul class="contact_info">
                                                 <li class="single">
                                                     <span class="icon-telephone"></span>
-                                                    <small> Call Us Now: </small>
+                                                    <small> UK: </small>
+                                                    <p><a href="tel:+441922670406">+44 1922670406</a></p>
+                                                </li>
+                                                <li class="single">
+                                                    <span class="icon-telephone"></span>
+                                                    <small> India: </small>
                                                     <p><a href="tel:+917861726814">+91 7861726814</a></p>
                                                 </li>
                                                 <li class="single">
@@ -349,16 +354,16 @@
                                 <div class="get_intouch_inrfo">
                                     <div class="foo_cont_inner">
                                         <div class="top">
-                                            <h6>India Address</h6>
-                                            <p>Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
-                                            <h6 class="mt-3">UK Address</h6>
+                                            <h6>UK Address</h6>
                                             <p>35 Park Street, Walsall, WS1 1LY, West Midlands, UK</p>
+                                            <h6 class="mt-3">India Address</h6>
+                                            <p>Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
                                         </div>
                                         <div class="bottom">
                                             <h6> Contact</h6>
                                             <div class="con_content">
                                                 <h5> Phone :</h5>
-                                                <a href="tel:+917861726814">+91 7861726814</a>
+                                                <a href="tel:+441922670406">+44 1922670406</a>, <a href="tel:+917861726814">+91 7861726814</a>
                                             </div>
                                             <div class="con_content">
                                                 <h5> Mail Us :</h5>
