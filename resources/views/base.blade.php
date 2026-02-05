@@ -133,19 +133,15 @@
                                         <div class="contact_widget">
                                             <ul class="contact_info">
                                                 <li class="single">
-                                                    <span class="icon-telephone"></span>
                                                     <small> UK: </small>
                                                     <p><a href="tel:+441922670406">+44 1922670406</a></p>
                                                 </li>
                                                 <li class="single">
-                                                    <span class="icon-telephone"></span>
                                                     <small> India: </small>
                                                     <p><a href="tel:+917861726814">+91 7861726814</a></p>
                                                 </li>
                                                 <li class="single">
-                                                    <span class="icon-mail"></span>
                                                     <small> Send Mail Us: </small>
-
                                                     <p><a href="mailto:mail@coirplanet.com ">mail@coirplanet.com</a>
                                                     </p>
                                                 </li>
