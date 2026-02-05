@@ -74,7 +74,7 @@
                                         <ul class="contact_info_two">
                                             <li class="single">
                                                 <span class="icon-placeholder"></span>
-                                                Coir Planet, 35 Park Street, Walsall, WS1 1LY, West Midlands, UK, Contact: +44 1922670406
+                                                Coir Planet, 35 Park Street, Walsall, WS1 1LY, West Midlands, UK
                                             </li>
                                         </ul>
                                     </div>

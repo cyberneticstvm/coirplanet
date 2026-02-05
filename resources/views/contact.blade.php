@@ -136,7 +136,7 @@
                         <div class="contnet">
                             <h3> General Enquires </h3>
                             <p>
-                                Phone: <a href="tel:+441922670406">+44 1922670406</a> &amp; <a href="tel:+917861726814">+91 7861726814</a> &amp; Email: <a href="mailto:mail@coirplanet.com">mail@coirplanet.com</a>
+                                Tel: <a href="tel:+441922670406">+44 1922670406</a> &amp; Mob: <a href="tel:+917861726814">+91 7861726814</a> &amp; Email: <a href="mailto:mail@coirplanet.com">mail@coirplanet.com</a>
                             </p>
                         </div>
                     </div>
