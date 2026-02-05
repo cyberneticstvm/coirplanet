@@ -128,7 +128,7 @@
                                     </div>
                                 </div>
                                 <!--Top Right-->
-                                <div class="col-lg-8 d_md_none">
+                                <div class="col-lg-7 d_md_none">
                                     <div class="midbar_mid">
                                         <div class="contact_widget">
                                             <ul class="contact_info">
@@ -153,7 +153,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 d_md_block text-end mobileMenuToggler">
+                                <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 d_md_block text-end mobileMenuToggler">
                                     <div class="navbar_togglers hamburger_menu">
                                         <span class="line"></span>
                                         <span class="line"></span>
