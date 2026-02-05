@@ -14,7 +14,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 m-auto">
                             <div class="slider_content">
-                                <h6 class="animate_left" style="color: green">
+                                <h6 class="animate_left">
                                     Coir Planet | Natural Fibre Eco Friendly
                                 </h6>
                                 <h1 class="animate_up">
