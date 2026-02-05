@@ -212,7 +212,7 @@
                         <div class="title">Welcome to the Coir Planet</div>
                         <div class="small_text_sub">About Us</div>
                         <p class="description_text">
-                            <a href="{{ route('index') }}">We</a> are a UK based company having our manufacturing unit in Kerala, the land of coconut, a state derived its name from coconut, India.
+                            <a href="{{ route('index') }}">We</a> are a UK based company having our manufacturing unit in Kerala, the land of coconuts, a state derived its name from coconut, India.
                         </p>
                         <p class="description_text">
                             Our products are purely natural coir geotextile, organic and natural coco peat, coco pods and mulch mat. We focus on strengthening sustainability through an enriched eco system. Hundred percent naturally processed coir fibres are used in making the geotextile. We thrust on empowering the socially and economically underprivileged women of the rural population of Kerala through providing them employment in the manufacturing process.

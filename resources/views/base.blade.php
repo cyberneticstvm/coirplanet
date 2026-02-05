@@ -74,7 +74,7 @@
                                         <ul class="contact_info_two">
                                             <li class="single">
                                                 <span class="icon-placeholder"></span>
-                                                Coir Planet, Bldg. No.592, Kanjikuzhi GP Ward IX, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India
+                                                Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India
                                             </li>
                                         </ul>
                                     </div>
@@ -123,7 +123,7 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
                                     <div class="logo midbar_left">
                                         <a href="{{ route('index') }}" class="logo navbar-brand">
-                                            <img src="{{ asset('/assets/images/cp-logo.webp') }}" alt="Coir Planet Logo" class="logo_default">
+                                            <img src="{{ asset('/assets/images/cp-logo.webp') }}" alt="Coir Planet Logo">
                                         </a>
                                     </div>
                                 </div>
@@ -349,8 +349,10 @@
                                 <div class="get_intouch_inrfo">
                                     <div class="foo_cont_inner">
                                         <div class="top">
-                                            <h6> Location</h6>
-                                            <p>Coir Planet, Bldg. No.592, Kanjikuzhi GP Ward IX, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
+                                            <h6>India Address</h6>
+                                            <p>Coir Planet, Bldg. No.592, Ward IX, Kanjikuzhi GP, Near Luther Junction, Muhamma PO, Alappuzha 688525, Kerala, India</p>
+                                            <h6 class="mt-3">UK Address</h6>
+                                            <p>35 Park Street, Walsall, WS1 1LY, West Midlands, UK</p>
                                         </div>
                                         <div class="bottom">
                                             <h6> Contact</h6>
