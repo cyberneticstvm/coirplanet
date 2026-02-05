@@ -35,8 +35,12 @@
             <div class="full_width_box">
                 <section class="tabs_all_box  tabs_all_box_start type_three">
                     <div class="content_bx">
-                        <h6 class="primary-color-one">CSR</h6>
-                        <h2>Corporate Social Responsibility</h2>
+                        <div class="title_all_box style_one text-left  dark_color">
+                            <div class="title_sections">
+                                <div class="before_title">CSR</div>
+                                <h2>Corporate Social Responsibility</h2>
+                            </div>
+                        </div>
                         <p>We are committed to conducting our business responsibly and ethically, with a strong focus on social, environmental, and economic sustainability. Our CSR initiatives aim to create a positive impact on communities, promote safe and fair working practices, reduce environmental footprint, and support long-term development.<br>
 
                             We believe that responsible business goes beyond compliance. By investing in people, protecting the environment, and contributing to community well-being, we strive to build lasting value for society while maintaining the highest standards of integrity and accountability.
