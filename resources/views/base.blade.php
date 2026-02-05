@@ -134,13 +134,13 @@
                                             <ul class="contact_info">
                                                 <li class="single">
                                                     <span class="icon-telephone"></span>
-                                                    <small> UK: </small>
+                                                    <small> UK Tel: </small>
                                                     <p><a href="tel:+441922670406">+44 1922670406</a></p>
                                                 </li>
                                                 <li class="single">
                                                     <span class="icon-telephone"></span>
-                                                    <small> India: </small>
-                                                    <p><a href="tel:+917861726814">+91 7861726814</a></p>
+                                                    <small> UK Mob: </small>
+                                                    <p><a href="tel:+447861726814">+44 7861726814</a></p>
                                                 </li>
                                                 <li class="single">
                                                     <span class="icon-mail"></span>
@@ -363,7 +363,7 @@
                                             <h6> Contact</h6>
                                             <div class="con_content">
                                                 <h5> Phone :</h5>
-                                                <a href="tel:+441922670406">+44 1922670406</a>, <a href="tel:+917861726814">+91 7861726814</a>
+                                                <a href="tel:+441922670406">+44 1922670406</a>, <a href="tel:+447861726814">+44 7861726814</a>
                                             </div>
                                             <div class="con_content">
                                                 <h5> Mail Us :</h5>
