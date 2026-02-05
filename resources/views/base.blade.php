@@ -128,7 +128,7 @@
                                     </div>
                                 </div>
                                 <!--Top Right-->
-                                <div class="col-lg-6 d_md_none">
+                                <div class="col-lg-8 d_md_none">
                                     <div class="midbar_mid">
                                         <div class="contact_widget">
                                             <ul class="contact_info">
