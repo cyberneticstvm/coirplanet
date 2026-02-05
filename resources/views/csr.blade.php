@@ -26,4 +26,42 @@
         </div>
     </div>
 </div>
+<div id="content" class="site-content ">
+    <!--===============spacing==============-->
+    <div class="pd_top_90"></div>
+    <!--===============spacing==============-->
+    <div class="container">
+        <div class="row default_row">
+            <div class="full_width_box">
+                <section class="tabs_all_box  tabs_all_box_start type_three">
+                    <div class="content_bx">
+                        <h6 class="primary-color-one">CSR</h6>
+                        <h2>Corporate Social Responsibility</h2>
+                        <p>We are committed to conducting our business responsibly and ethically, with a strong focus on social, environmental, and economic sustainability. Our CSR initiatives aim to create a positive impact on communities, promote safe and fair working practices, reduce environmental footprint, and support long-term development.<br>
+
+                            We believe that responsible business goes beyond compliance. By investing in people, protecting the environment, and contributing to community well-being, we strive to build lasting value for society while maintaining the highest standards of integrity and accountability.
+                        </p>
+                        <ul>
+                            <li>
+                                Empowering socially and economically underprivileged rural women of Kerala,India
+                            </li>
+                            <li>
+                                Concern and commitment to the environment.
+                            </li>
+                            <li>
+                                Empowering sustainable agriculture and development
+                            </li>
+                            <li>
+                                Climate change mitigation.
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <!--===============spacing==============-->
+                <div class="pd_bottom_80"></div>
+                <!--===============spacing==============-->
+            </div>
+        </div>
+    </div>
+</div>
 @endsection
