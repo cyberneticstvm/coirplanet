@@ -120,7 +120,7 @@
                         <div class="medium-container">
                             <div class="row align-items-center">
                                 <!--Top Left-->
-                                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                                <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6">
                                     <div class="logo midbar_left">
                                         <a href="{{ route('index') }}" class="logo navbar-brand">
                                             <img src="{{ asset('/assets/images/cp-logo.webp') }}" alt="Coir Planet Logo">
@@ -128,7 +128,7 @@
                                     </div>
                                 </div>
                                 <!--Top Right-->
-                                <div class="col-lg-7 d_md_none">
+                                <div class="col-lg-8 d_md_none">
                                     <div class="midbar_mid">
                                         <div class="contact_widget">
                                             <ul class="contact_info">
