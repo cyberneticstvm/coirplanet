@@ -327,7 +327,7 @@
                     <div class="team_box type_one">
                         <div class="content_box">
                             <h2><a href="#">Dr Sevichan P J</a></h2>
-                            <h6>Director</h6>
+                            <h6>Research & Development Head</h6>
                             <p class="text-start">Dr Sevichan P J , an expert in the field of Coconut Husk Defibring, Coco Peat processing, Bio Fertilizers, Organic Fertilizers, and Sustainable Agriculture, is the former Associate Professor, Research Department of Botany, St.Joseph's College, Devagiri, Calicut, Kerala, India.<br>
                                 Post Retirement, he started an industrial unit for coconut husk defibring for manufacturing coir products and organic fertilizers using coco peat.<br>
                                 Based on his extensive research, he has developed innovative technology for manufacturing quality coir geotextile, coco pods, grow bags, organic floral foam and also low EC and neutral pH organic fertilizer from coir pith.
